@@ -1,0 +1,67 @@
+@media (min-width: 320px) and (max-width: 575px) {
+
+    .about_part {
+        padding: 65px 0px;
+    }
+    #banner {
+        padding: 212px 0 661px;
+        margin-bottom: 74px;
+
+        
+    }
+    .banner_Img {
+       
+        right: -16px;
+    }
+    .navbtn {
+        padding: 6px 21px;
+   
+    }
+    .banner_text_part p {
+    
+        width: auto;
+       
+    }
+    .about_part p {
+   
+        width: auto;
+       
+        
+    }
+    .about_bottom {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .skill_heading p {
+        width: auto;
+    }
+    .skill_list_item {
+       
+        flex-wrap: wrap;
+    }
+    .education_part h4 {
+        font-size: 20px;
+    }
+    .education_part p {
+      
+        width: 300px;
+        
+    }
+    .education_part .line {
+        width: auto;
+       
+    }
+    .education_flex {
+      
+        flex-wrap: wrap;
+    }
+    .education_flex_last {
+    
+        flex-wrap: wrap;
+    }
+    .connect_part p {
+              width: auto;
+        
+    }
+}
